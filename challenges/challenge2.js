@@ -1,0 +1,5 @@
+/*
+The weight of an array is defined as the length of the most frequently occurring integer in the array.
+
+
+*/
